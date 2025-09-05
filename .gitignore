@@ -1,0 +1,38 @@
+# Created by https://www.toptal.com/developers/gitignore/api/python
+# Edit at https://www.toptal.com/developers/gitignore?templates=python
+
+### Python ###
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archiv files
+Archiv/
+
+# Generated files
+output/
+
+# Log Files
+*.log
+
+# Java
+*.jar
+
+# WinCmd
+descript.ion
+
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Links
+*.lnk
