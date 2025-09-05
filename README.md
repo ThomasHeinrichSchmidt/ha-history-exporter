@@ -91,4 +91,5 @@ As a test, I called up the script from the command line to see if the data arriv
 Contributions and feedback are welcome!
 
 ## Acknowledgments
-* used Noxon Commands from [clementleger](https://github.com/clementleger/noxonremote)
+[Shell command w/sqlite3](https://community.home-assistant.io/t/shell-command-w-sqlite3/443430/3)\
+[Shell Command](https://www.home-assistant.io/integrations/shell_command/)
